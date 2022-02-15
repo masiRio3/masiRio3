@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Estos son mis primeros proyectos de Java, utilizando Java Swing
+Estos son mis primeros proyectos
 
 <!--
 **masiRio3/masiRio3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
